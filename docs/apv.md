@@ -370,7 +370,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 33 - Basis criminele organisaties
 
 1. Met de term 'criminele organisaties' worden alle officiele groeperingen bedoeld.
-2. Op het moment mogen criminele organisaties maximaal 10 leden hebben. Dit is exclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
+2. Op het moment mogen criminele organisaties maximaal 15 leden hebben. Dit is exclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
 3. Bij overtreding van lid 2 zal in de basis een straf van de eerste categorie worden opgelegd aan het leiderschap van de organisatie. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor de organisatie.
 4. Het is voor criminele organisaties toegestaan om samen te werken als het binnen proportie valt.
 5. Een samenwerking tussen criminele organisaties dient altijd gemeld te worden bij het managementteam of onderwereld coordinator.
