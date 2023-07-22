@@ -476,3 +476,9 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk. 
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
 
+### Artikel 47 - Criminele organisaties
+
+1. Het creëren van valse meldingen in de buurt van een gang-huis met als doel criminelen uit te lokken of rivaliserende groepen in de problemen te brengen, is ten strengste verboden.
+2. Het in beslag nemen van voertuigen door een officiële gang moet plaatsvinden via realistische en langdurige roleplay, niet met als hoofddoel geld verdienen.
+3. Indien er gedurende twee weken geen roleplay heeft plaatsgevonden met betrekking tot de inbeslagname van een voertuig, mag het voertuig kosteloos uit de garage worden gehaald.
+4. Het is alleen toegestaan om items, wapens en geld van een speler te confisqueren als dit gebeurt via roleplay. Het confisqueren van overheidsobjecten is niet toegestaan.
