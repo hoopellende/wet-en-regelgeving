@@ -385,11 +385,14 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 35 - Regels criminele organisaties
 
-1. Het is niet toegestaan om 112-meldingen te maken in de buurt van huizen van criminele organisaties met het doel om ze uit te lokken of hun in de problemen te werken.
+1. Het creëren van valse meldingen in de buurt van een gang-huis met als doel criminelen uit te lokken of rivaliserende groepen in de problemen te brengen, is ten strengste verboden.
 2. Het is voor criminele organisaties niet toegestaan om samen te werken. Hieronder wordt verstaan maar niet beperkt tot:
 	* Zonder goede aanleiding samen in een portofoon zitten;
 	* Samen overvallen plegen;
 	* Samen scenario's neerzetten waarbij er voordeel voor beide groeperingen wordt behaald;
+3. Het in beslag nemen van voertuigen door een officiële gang moet plaatsvinden via realistische en langdurige roleplay, niet met als hoofddoel geld verdienen.
+4. Indien er gedurende twee weken geen roleplay heeft plaatsgevonden met betrekking tot de inbeslagname van een voertuig, mag het voertuig kosteloos uit de garage worden gehaald.
+5. Het is alleen toegestaan om items, wapens en geld van een speler te confisqueren als dit gebeurt via roleplay. Het confisqueren van overheidsobjecten is niet toegestaan.
 
 ### Artikel 36 - Overvallen
 
