@@ -478,3 +478,11 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk. 
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
+
+### Artikel 47 - Greenzone
+
+1. Binnen de greenzone is het ten strengste verboden om mensen te ontvoeren, te bedreigen of op enigerlei wijze hun vrijheid te beperken. Het respecteren van de persoonlijke veiligheid en vrijheid van anderen is essentieel om een veilige en vreedzame omgeving te behouden.
+2. Binnen de greenzone is het gebruik van geweld strikt gereguleerd. Schieten is alleen toegestaan in specifieke scenario's waarin een andere situatie binnen de greenzone verder escaleert en als een laatste redmiddel om levens te beschermen. Alle andere vormen van geweld zijn niet toegestaan en moeten worden vermeden om een vreedzame omgeving te handhaven.
+3. Iedereen binnen de greenzone wordt verwacht zich aan de regels te houden en bij te dragen aan de algemene veiligheid en orde. Het negeren van de regels kan leiden tot passende sancties, variërend van waarschuwingen tot verwijdering uit de greenzone, afhankelijk van de ernst van de overtreding.
+4. De greenzone behoort tot de volgende locaties:
+- ANWB
