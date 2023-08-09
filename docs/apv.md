@@ -485,4 +485,4 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Binnen de greenzone is het gebruik van geweld strikt gereguleerd. Schieten is alleen toegestaan in specifieke scenario's waarin een andere situatie binnen de greenzone verder escaleert en als een laatste redmiddel om levens te beschermen. Alle andere vormen van geweld zijn niet toegestaan en moeten worden vermeden om een vreedzame omgeving te handhaven.
 3. Iedereen binnen de greenzone wordt verwacht zich aan de regels te houden en bij te dragen aan de algemene veiligheid en orde. Het negeren van de regels kan leiden tot passende sancties, variërend van waarschuwingen tot verwijdering uit de greenzone, afhankelijk van de ernst van de overtreding.
 4. De greenzone behoort tot de volgende locaties:
-- ANWB
+* ANWB
