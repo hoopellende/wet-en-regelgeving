@@ -99,6 +99,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 7 - Copbaiting
 
 1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten of hun van hun proberen te houden zonder goede aanleiding.
+2. Als de politie je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
