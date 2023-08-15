@@ -67,4 +67,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Mercedes g63 AMG 6x6
  * Ktm exc 530
  * RMOD DODGE RAM T-REX
+ * Ford F-150 SVT Lightning 2003
 
