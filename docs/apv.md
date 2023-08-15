@@ -92,7 +92,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 4. De organisaties van toepassing op lid 1 en 2:
     * Politiekorps Springbank
     * Ambulancezorg
-    * Millenium Exclusive Cardealer
+    * Springbank Exclusive Cardealer
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
