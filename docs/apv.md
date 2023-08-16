@@ -201,7 +201,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de Springbank support discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
 3. Indien je een report maakt in-game is het de bedoeling dat je dit beschouwt als OOC-informatie. Je mag dus ook niet met anderen delen dat jij een report hebt gemaakt of het tegen de persoon zelf zeggen.
 4. Het is niet toegestaan om misbruik te maken van de /report functionaliteit om onterecht voordeel te behalen.
-5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 48 uur na het scenario.(Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs)
+5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 48 uur na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs)
 
 ### Artikel 19 - Out Of Character
 
