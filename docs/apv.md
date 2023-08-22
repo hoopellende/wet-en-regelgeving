@@ -171,7 +171,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 4. Na een harde crash waarbij je bewusteloos bent geraakt en je netvlies zwart is mag je niet:
    	* Doorrijden zonder medische hulp
-   	* Uitstappen en schieten
+   	* Uitstappen en schieten 
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
