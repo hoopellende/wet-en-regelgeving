@@ -1,4 +1,4 @@
-# Off-road voertugien
+# Off-road voertuigen
 
 Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassificatie. Dit is vormgegeven in drie klassificaties:
 
