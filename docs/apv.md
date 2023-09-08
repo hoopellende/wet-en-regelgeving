@@ -167,7 +167,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
 	* Het valt niet onder no value of life als je een vuurwapen trekt terwijl je bedreigd wordt met een steek- of slagwapen.
 	* Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt terwijl je jezelf in een voertuig met gesloten ramen en deuren bevind.
-	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemands hoofd, keel of andere vitale lichaamsdelen.
+	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 3. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 4. Na een harde crash waarbij je bewusteloos bent geraakt en je netvlies zwart is mag je niet:
    	* Doorrijden zonder medische hulp
