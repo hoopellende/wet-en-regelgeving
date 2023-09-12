@@ -429,6 +429,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 6. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
 7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden.
 8. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
+9. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
