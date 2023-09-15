@@ -494,3 +494,16 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Iedereen binnen de greenzone wordt verwacht zich aan de regels te houden en bij te dragen aan de algemene veiligheid en orde. Het negeren van de regels kan leiden tot passende sancties, variërend van waarschuwingen tot verwijdering uit de greenzone, afhankelijk van de ernst van de overtreding.
 4. De greenzone behoort tot de volgende locaties:
 * ANWB
+
+### Artikel 48 - Graphic packs
+* Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
+1. Permanente Daglicht Packs: Het is niet toegestaan om graphic packs te gebruiken die ervoor zorgen dat het in de virtuele omgeving altijd licht is, zodoende het nacht-en-dag cyclus te omzeilen.
+2. Kogel Tracer Packs: Het is niet toegestaan om graphic packs te gebruiken die de tracers van kogels zichtbaar maken, hetgeen een nadelige invloed kan hebben op de spelbeleving.
+3. Beeldverhouding 4:3: Het is niet toegestaan om de beeldscherm instellingen op een 4:3-verhouding in te stellen, waardoor grafische elementen disproportioneel breder worden weergegeven.
+4. FOV Aanpassingen: Het is niet toegestaan om de Field of View (FOV) instellingen te wijzigen waardoor grafische elementen breder worden weergegeven dan standaard is toegestaan.
+5. Crosshair Gebruik: Het gebruik van een crosshair is ten strengste verboden. Overtreding van deze regel resulteert in een directe permanente verbanning van de dienst.
+6. Kill Effect Packs: Het is niet toegestaan om graphic packs te gebruiken die een visueel effect toevoegen bij het doden van een ander personage in het spel.
+7. Potato Graphic Packs: Het gebruik van zogenaamde 'Potato Graphic Packs', waarbij bepaalde grafische elementen zoals bosjes en dergelijke kleiner worden weergegeven dan standaard, is verboden.
+8. Het gebruik van NVE is toegestaan zolang het binnen alle bovenstaande regels valt.
+
+> Straf ⇨ Categorie 6: een ban van een maand
