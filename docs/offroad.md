@@ -40,7 +40,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
 
 ### Off-road wegen
  * 3XB Lucky Buggy
- * Brabus Rocket G900
  * Buggy
  * Dodge Challenger Raid
  * Dodge Ram TRX
