@@ -256,7 +256,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Schelden met hedendaagse ziektes __7 dagen ban__
 	* Opmerkingen op basis van geslacht, geloofsovertuiging, seksuele voorkeur, ras en gelijke discriminerende opmerkingen __30 dagen ban__
 	* Seksuele opmerkingen __7 dagen ban__
-	* Toxic, uitlokkend of haatzaaiende opmerkingen __een ban van maximaal 1 dag__
+	* Toxic, uitlokkend of haatzaaiende opmerkingen __een ban van maximaal 3 dagen__
 	* Andere ongepaste opmerkingen
 3. Lid 1 en 2 zijn ook van toepassing op de volgende teksten:
 	* Naam van jouw steam account
