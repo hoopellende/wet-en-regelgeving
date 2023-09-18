@@ -205,6 +205,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Indien je een report maakt in-game is het de bedoeling dat je dit beschouwt als OOC-informatie. Je mag dus ook niet met anderen delen dat jij een report hebt gemaakt of het tegen de persoon zelf zeggen.
 4. Het is niet toegestaan om misbruik te maken van de /report functionaliteit om onterecht voordeel te behalen.
 5. Zodra je een ticket wilt aanmaken voor een scenario waar je het niet mee eens bent, dan moet dat binnen 48 uur na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs)
+6. In geen enkel geval is het toegestaan om eigenaren maar ook staff een dm te sturen over een staffzaak. Gebeurd dit wel, dan staat daar een straf op van een ban voor 2 dagen.
 
 ### Artikel 19 - Out Of Character
 
