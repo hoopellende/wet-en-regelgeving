@@ -34,7 +34,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Meth koken in een rijdend voertuig of terwijl je in een tunnel staat.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
-    * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me te doen.
+    * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
     * Het controleren van kofferbakken zonder enige aanleiding.
 	* Meerdere handelingen in één moment uitvoeren. Voorbeeld: */me pakt porto af, doet tape op mond en bind vast* moeten drie verschillende */me*'s zijn.
