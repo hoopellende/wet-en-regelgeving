@@ -10,6 +10,7 @@ Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassi
 | Off-Road wegen | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is |
 
 Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de klasse "Verharde wegen".
+ * Deze voertuigen mogen op Onverharde wegen rijden met een max van 100 km/u (Dit geld voor alle wegen die aangeduid zijn op de map)
 
 ### Onverharde wegen 
  * Audi RSQ8 2021
@@ -37,6 +38,9 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Jeep Grand Cherokee Supercharger
  * Range Rover Sport SVR
  * Bmw X5M 2020
+ * 2021 Land Rover Defender 110
+ * Porsche Macan Prior Design
+ * Volkswagen Touareg R50
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -67,4 +71,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Ktm exc 530
  * RMOD DODGE RAM T-REX
  * Ford F-150 SVT Lightning 2003
+ * Ford Ranger Raptor 2019
 
