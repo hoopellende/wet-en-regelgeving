@@ -315,14 +315,15 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Organisaties die van toepassing zijn op lid 1 zijn:
 	* Politiekorps
 	* Ambulancezorg
-	* Millenium Exclusive Cardealer
+	* ANWB
+	* SPEC
 	* Ministerie van Justitie
 	* Gemeente Springbank
 3. Indien een overheidsmedewerker betrapt wordt op het bezighouden met illegale praktijk zal dit naast de basisstraf resulteren in ontslag op staande voet bij de organisatie in kwestie.
 4. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, zoals onder andere maar niet beperkt tot:
 	* Dienstwapens
 	* Medische tassen
-	* Repairkits voor MEC
+	* Repairkits
 	* Handboeien
 5. Het is voor overheidsmedewerkers niet toegestaan om buiten hun dienst hun dienstwapens te dragen indien dit van toepassing is.
 6. Een uitzondering op lid 5 geldt voor medewerkers van de politie die een specialistische training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun dienst dragen ten behoeve van de uitvoering van het werk.
@@ -362,8 +363,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Personeel van de ambulancezorg behoudt zich altijd het recht iemand dood te verklaren indien dit logischerwijs gepaard gaat met de verwondingen.
 4. Het is niet toegestaan om personeel van de ambulancezorg te forceren om iemand omhoog te helpen ofwel te 'reviven'.
 5. Het is verplicht om instructies van het ambulance personeel op te volgen en mee te werken aan de medische roleplay.
-6. Personeel van Millenium Exclusive Cardealer behoudt zich altijd het recht om een voertuig mee te nemen indien dit zodanig beschadigt is dat het niet gerepareerd kan worden op de locatie zelf.
-7. Het is niet toegestaan om personeel van de Millenium Exclusive Cardealer te forceren om een voertuig te repareren.
+6. Personeel van de ANWB behoudt zich altijd het recht om een voertuig mee te nemen indien dit zodanig beschadigt is dat het niet gerepareerd kan worden op de locatie zelf.
+7. Het is niet toegestaan om personeel van de ANWB te forceren om een voertuig te repareren.
 8. Het is nooit toegestaan om een melding te maken naar een hulpdienst met het doel om deze te ontvoeren, te overvallen, te vermoorden of dergelijk.
 9. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
     * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden

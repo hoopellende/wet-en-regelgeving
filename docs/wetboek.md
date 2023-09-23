@@ -493,7 +493,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 1. Een persoon is schuldig wanneer zijn of haar voertuig niet voldoet aan de gestelde eisen.
 2. Wanneer een bestuurder met een voertuig met een WOK-status deelneemt aan het verkeer en voor de eerste of tweede keer staande wordt gehouden, wordt dit beschouwd als een misdrijf. De sanctie hiervoor is inbeslagname van het voertuig.
 3. Bij een derde keer of vaker staande gehouden te worden, wordt de sanctie van inbeslagname van het voertuig vermeerderd met een taakstraf.
-4. De WOK-status is een status die bij de politie wordt vastgelegd. Na reparatie of aanpassing van het voertuig kan de MEC of politie deze status verwijderen na visuele controle van het voertuig.
+4. De WOK-status is een status die bij de politie wordt vastgelegd. Na reparatie of aanpassing van het voertuig kan de ANWB of politie deze status verwijderen na visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
