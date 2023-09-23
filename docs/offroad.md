@@ -10,7 +10,6 @@ Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassi
 | Off-Road wegen | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is |
 
 Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de klasse "Verharde wegen".
- * Deze voertuigen mogen op Onverharde wegen rijden met een max van 100 km/u (Dit geld voor alle wegen die aangeduid zijn op de map)
 
 ### Onverharde wegen 
  * Audi RSQ8 2021
