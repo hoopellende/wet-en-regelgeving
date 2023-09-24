@@ -40,6 +40,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * 2021 Land Rover Defender 110
  * Porsche Macan Prior Design
  * Volkswagen Touareg R50
+ * Jeep Trackhawk
  * Alle aanhangers
 
 ### Off-road wegen
