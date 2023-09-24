@@ -72,4 +72,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * RMOD DODGE RAM T-REX
  * Ford F-150 SVT Lightning 2003
  * Ford Ranger Raptor 2019
+ * Jeep Trackhawk (alleen met off-road banden)
 
