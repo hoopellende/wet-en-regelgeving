@@ -42,6 +42,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Volkswagen Touareg R50
  * Jeep Trackhawk
  * Alle aanhangers
+ * Audi SQ8 ABT Sportsline 2019
+ * Porsche Cayenne Mansory 
 
 ### Off-road wegen
  * 3XB Lucky Buggy
