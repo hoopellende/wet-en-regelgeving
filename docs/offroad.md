@@ -10,6 +10,7 @@ Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassi
 | Off-Road wegen | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is |
 
 Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de klasse "Verharde wegen".
+> Straf ⇨ Categorie 1: een waarschuwing
 
 ### Onverharde wegen 
  * Audi RSQ8 2021
