@@ -404,7 +404,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 36 - Overvallen
 
-1. Het is niet toegestaan om een overval te starten van 11:30 tot 12:00 ('s middags), 17:30 tot 18:00 ('s avonds) en 01:30 tot 02:00 ('s nachts). Dit heeft te maken met de ingeplande server restarts.
+1. Het is niet toegestaan om een overval te starten van 13:30 tot 14:00 ('s middags) en 01:30 tot 02:00 ('s nachts). Dit heeft te maken met de ingeplande server restarts.
 > Straf ⇨ Categorie 1: een waarschuwing
 2. Er wordt verwacht dat er bij een overval door alle partijen logisch nagedacht wordt en realistische beslissingen worden gemaakt. Hierbij is het belangrijk om zaken zoals no value of life, fail RP, powergaming in het achterhoofd te houden om het voor alle betrokken partijen zo leuk mogelijk te houden.
 3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
