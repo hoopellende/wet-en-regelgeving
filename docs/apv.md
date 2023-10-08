@@ -161,7 +161,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en repecteert zoals in het echt.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Indien er een vuurwapen op je gericht in voice range wordt er verwacht dat je blijft staan en werk je mee.
+	* Indien er een vuurwapen op je gericht staat in voice range wordt er verwacht dat je blijft staan en mee werkt.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
