@@ -37,8 +37,6 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
     * Het controleren van kofferbakken zonder enige aanleiding.
-> Indien jij je auto niet op slot hebt gezet, hem er dubbel uit hebt gehaald of op een illegale locatie staat, kan je geen refund meer krijgen indien er iets uit gehaald wordt. Als je gecrashed bent en dit is de reden, zorg dan dat je dit op clip hebt.
-	* Meerdere handelingen in één moment uitvoeren. Voorbeeld: */me pakt porto af, doet tape op mond en bind vast* moeten drie verschillende */me*'s zijn.
 
 ### Artikel 2 - Cheats
 
