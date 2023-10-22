@@ -20,7 +20,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * BMW X6M
  * BMW X6
  * BMW X7 2021
- * BMW X7M 70i
+ * BMW X7 M60i
  * Brabus G900
  * Dodge Demon Durango
  * Jeep Grand Cherokee SRT-8
@@ -44,7 +44,9 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Jeep Trackhawk
  * Alle aanhangers
  * Audi SQ8 ABT Sportsline 2019
- * Porsche Cayenne Mansory 
+ * Porsche Cayenne Mansory
+ * Range Rover vogue
+ * Mercedes GLE 63 AMG 2021
 
 ### Off-road wegen
  * 3XB Lucky Buggy
