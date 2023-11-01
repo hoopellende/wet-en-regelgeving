@@ -33,7 +33,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Misbruik maken van de emote-functionaliteit.
 	* Meth koken in een rijdend voertuig of terwijl je in een tunnel staat.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
-    * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
+    * Het dwingen van politie- en/of KMar medewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
     * Het controleren van kofferbakken zonder enige aanleiding.
@@ -90,6 +90,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Uitzondering op lid 1 en 2 is wanneer hier in de roleplay een goede aanleiding voor is.
 4. De organisaties van toepassing op lid 1 en 2:
     * Politiekorps Springbank
+	* Koninklijke Marechaussee
     * Ambulancezorg
     * Springbank Exclusive Cardealer
     * ANWB
@@ -98,8 +99,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 7 - Copbaiting
 
-1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten of hun van hun proberen te houden zonder goede aanleiding.
-2. Als de politie je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
+1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten en/of KMar-leden of hun van hun proberen te houden zonder goede aanleiding.
+2. Als de politie en/of KMar je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
@@ -313,6 +314,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een staflid.
 2. Organisaties die van toepassing zijn op lid 1 zijn:
 	* Politiekorps
+	* Koninklijke Marechaussee
 	* Ambulancezorg
 	* ANWB
 	* SPEC
@@ -346,7 +348,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 30 - Overval Regels
 
-1. Het is de verplichting van de OC ('Operationeel Centrum') van de politiedienst om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
+1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
 
 ### Artikel 31 - Wraak en liquidaties
 
@@ -367,9 +369,10 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 7. Het is niet toegestaan om personeel van de ANWB te forceren om een voertuig te repareren.
 8. Het is nooit toegestaan om een melding te maken naar een hulpdienst met het doel om deze te ontvoeren, te overvallen, te vermoorden of dergelijk.
 9. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
-    * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden
+    * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden.
+	* KMar: Per 6 KMar-leden mag er 1 lid ontvoerd worden.
     * Ambulancezorg: Per 8 ambulancemedewerkers in dienst mag er 1 ontvoerd worden.
-10. Het is toegestaan om iemand van het politiekorps te ontvoeren om een voertuig uit de impound te forceren. De volgende voorwaarden zijn van toepassing:
+10. Het is toegestaan om iemand van het politiekorps of KMar te ontvoeren om een voertuig uit de impound te forceren. De volgende voorwaarden zijn van toepassing:
     * Je verliest het recht op een advocaat of bijstand van hOVJ. (Hulp officier van justitie)
     * Het openstaande bedrag voor de inbeslagname dient betaald te worden
 

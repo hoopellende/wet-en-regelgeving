@@ -36,10 +36,10 @@
 ### A5 - Inbeslagnames en invorderingen
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van de politie.
-    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
+    1. De keuze voor inbeslagname is ter beoordeling van de politie of KMar.
+    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie en KMar;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de politie de tijd om	de bewijzen te verzamelen en beschikbaar te stellen;
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen hebben de politie en de KMar de tijd om	de bewijzen te verzamelen en beschikbaar te stellen;
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
     3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
     4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
@@ -47,7 +47,7 @@
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
     7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
-    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie
+    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of van de KMar.
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Springbank waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
@@ -63,10 +63,10 @@
 
 ### A6 - Consultatierecht
 
-1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
+1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een verhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
-4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
+4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de verbalisant verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
 ### A7 - Algemene rechtsbeginselen
@@ -200,9 +200,9 @@
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
-2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
-3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie gemaand tot restitutie.
+1. Wanneer er tijdens aanhouding van een persoon door verbalisant een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de verbalisant de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de betreffende organisatie gemaand tot restitutie.
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
@@ -420,7 +420,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 
 1. Indien een persoon na een verkeersongeval de plaats verlaat, ongeacht of deze persoon schuldig was aan het ongeval, wordt deze persoon als schuldig beschouwd.
 2. Als hierdoor een derde in hulpeloze toestand wordt achtergelaten, zal de straf met 33% worden verhoogd.
-3. Als de persoon zich alsnog tijdig bij de politie meldt, zal er geen strafvervolging plaatsvinden.
+3. Als de persoon zich alsnog tijdig bij de politie of KMar meldt, zal er geen strafvervolging plaatsvinden.
 4. De beslissing om een rijontzegging op te leggen is aan de dienstdoende ambtenaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
@@ -493,7 +493,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 1. Een persoon is schuldig wanneer zijn of haar voertuig niet voldoet aan de gestelde eisen.
 2. Wanneer een bestuurder met een voertuig met een WOK-status deelneemt aan het verkeer en voor de eerste of tweede keer staande wordt gehouden, wordt dit beschouwd als een misdrijf. De sanctie hiervoor is inbeslagname van het voertuig.
 3. Bij een derde keer of vaker staande gehouden te worden, wordt de sanctie van inbeslagname van het voertuig vermeerderd met een taakstraf.
-4. De WOK-status is een status die bij de politie wordt vastgelegd. Na reparatie of aanpassing van het voertuig kan de ANWB of politie deze status verwijderen na visuele controle van het voertuig.
+4. De WOK-status is een status die in de politiesystemen wordt vastgelegd. Na reparatie of aanpassing van het voertuig kan de politie en/of KMar deze status verwijderen na visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
@@ -959,6 +959,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 ### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie of Koninklijke Marechaussee
 
 | Bij wet geclassificeerde verboden domeinen |
 |---|
@@ -1022,9 +1023,9 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit.
 3. Subsidiariteit geeft aan of geweld gebruikt mag worden mits het doel niet op een andere manier kan worden bereikt.
 4. Proportionaliteit geeft aan dat de overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, niet méér geweld mag gebruiken dan nodig is. Belangrijk is dat het gebruikte geweld altijd in verhouding staat met de ernst van de situatie en het misdrijf.
-5. Indien niet is voldaan aan de vereisten van subsidiariteit en proportionaliteit en er is sprake van buitensporig geweld met schade tot gevolg, dan is de politie aansprakelijk voor de veroorzaakte schade. De schadevergoeding wordt bepaald aan de hand van onderstaande vergoeding tabel.
+5. Indien niet is voldaan aan de vereisten van subsidiariteit en proportionaliteit en er is sprake van buitensporig geweld met schade tot gevolg, dan is de politie en/of KMar aansprakelijk voor de veroorzaakte schade. De schadevergoeding wordt bepaald aan de hand van onderstaande vergoeding tabel.
 6. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-7. Een uitzondering op lid 6 is indien vanuit de politie zelf wordt aangegeven dat er buitensporig geweld is gebruikt zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
+7. Een uitzondering op lid 6 is indien vanuit de politie of KMar zelf wordt aangegeven dat er buitensporig geweld is gebruikt zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
 8. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
 9. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
@@ -1041,7 +1042,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 ### Artikel X-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grensinspectiepost ontwijkt, daar waar hij redelijkerwijs deze grensinspectiepost zou moeten passeren.
-2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de politie bij een grensinspectiepost.
+2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de politie en/of KMar bij een grensinspectiepost.
 3. Niet schuldig is een persoon die een grensinspectiepost passeert dan wel ontwijkt of vermijdt terwijl deze op dat moment niet bemenst is met dienstdoend personeel.
 4. Niet schuldig is tevens een persoon die een grensinspectiepost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel.
 5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd.
@@ -1055,16 +1056,16 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
-1. De douane is bevoegd aan controle te onderwerpen:
+1. De Koninklijke Marechaussee is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De douane is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-6. De douane is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-7. De douane maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ## Titel XI – Bewijs
 
@@ -1073,6 +1074,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 1. Met de opsporing van strafbare feiten zijn belast:
 	1. de (hulp)officieren van justitie;
 	2. de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
+    3. de ambtenaren van de Koninklijke Marechaause;
 	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
 	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
