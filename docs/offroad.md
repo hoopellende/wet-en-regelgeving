@@ -47,6 +47,9 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Porsche Cayenne Mansory
  * Range Rover vogue
  * Mercedes GLE 63 AMG 2021
+ * Audi SQ8 ABT Sportsline 2019
+ * Aston Martin DBX 707 2023
+ * Aston Martin DBX
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -79,4 +82,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Ford F-150 SVT Lightning 2003
  * Ford Ranger Raptor 2019
  * Jeep Trackhawk (alleen met off-road banden)
+ * Ford Bronco 6x6
+ * Brabus G800 4X4
+ * Toyota 4Runner TRD
 
