@@ -85,4 +85,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Ford Bronco 6x6
  * Brabus G800 4X4
  * Toyota 4Runner TRD
+ * Brabus D35 adventure
 
