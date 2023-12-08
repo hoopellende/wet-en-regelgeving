@@ -183,8 +183,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
-        * Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol.
-        * Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
+	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol.
+	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
 5. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
