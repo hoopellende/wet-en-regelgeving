@@ -182,7 +182,10 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
-3. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
+        * Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol.
+        * Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
+5. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -320,7 +323,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm.
 	* Onder dwang iemand zijn huis betreden en leegroven.
-4. Scammen en oplichten is enkel toegestaan als de persoon bewapend is en er een roleplay scenario van maakt en het illegale goederen betreft.
+4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. 
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
