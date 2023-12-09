@@ -304,7 +304,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 5: een ban van maximaal 1 week
 
-### Overtredingen - Criminele activiteiten
+## Overtredingen - Criminele activiteiten
 
 ### Artikel 26 - Overvallen & Oplichten
 
