@@ -539,4 +539,4 @@ Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen
     * Potato Graphic Packs: Het gebruik van zogenaamde 'Potato Graphic Packs', waarbij bepaalde grafische elementen zoals bosjes en dergelijke kleiner worden weergegeven dan standaard, is verboden.
     * Het gebruik van NVE is toegestaan zolang het binnen alle bovenstaande regels valt.
 
-> Straf ⇨ Categorie 6: een ban van een maand
+> Straf ⇨ Categorie 6: een ban van een maand 
