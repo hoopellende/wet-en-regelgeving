@@ -86,4 +86,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Brabus G800 4X4
  * Toyota 4Runner TRD
  * Brabus D35 adventure
+ * Honda Africa Twin
 
