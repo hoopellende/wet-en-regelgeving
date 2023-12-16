@@ -50,6 +50,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Audi SQ8 ABT Sportsline 2019
  * Aston Martin DBX 707 2023
  * Aston Martin DBX
+ * Lamborghini Urus Performante
+ * Ferrari Purosangue
 
 ### Off-road wegen
  * 3XB Lucky Buggy
