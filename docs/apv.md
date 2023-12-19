@@ -137,7 +137,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Indien je een voorwerp of dergelijk hebt gestolen van iets of iemand is het niet toegestaan om dit binnen tien minuten na het betreffende scenario op te bergen in een onbereikbare plek, zoals bijvoorbeeld een huis of een kofferbak in de garage.
 2. Indien je een wapen hebt gebruik mag je deze niet stashen in de eerste 10 minuten.
 3. Zolang je je nog bevindt in het scenario (neem bijvoorbeeld een achtervolging na het gebruik van je wapen) tellen deze 10 minuten niet. De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
-
+4. Het is niet toegestaan om naast je huis te koken en de producten hier binnen 10 minuten in te stashen.
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
 ### Artikel 11 - VDM (Vehicle Deathmatch)
@@ -165,7 +165,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 	* Met een sportwagen over een onverharde weg rijden.
 	* Met je voertuig gebouwen inrijden, die hier niet voor bedoeld zijn.
-  	* Een voertuig mag geen lichter voeruit pitten of brake checken, de volgorde gaat als voltgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
+  	* Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgtt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 3. Het is alleen toegestaan om af te wijken van de geasfalteerde wegen indien het voertuig dat je gebruikt voldoet aan de classificatie die is gesteld aan het betreffende type terrein. Voertuigen die zich buiten de geasfalteerde wegen mogen bevinden en hun classificaties zijn te raadplegen door hier te klikken.
 
 > Straf ⇨ Categorie 1: een waarschuwing
@@ -174,7 +174,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en repecteert deze zoals in het echt.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.
+	* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt. Dit betekent ook zo snel mogelijk je spullen droppen.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze persoon benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
@@ -185,7 +185,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
-5. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+4. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -308,7 +308,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 26 - Overvallen & Oplichten
 
-1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten.
+1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten
+        A. Hier moet je concreet (aantoonbaar) bewijs van hebben (beeldmateriaal), ook als iemand een call maakt.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
 	* Activiteiten rondom drugs, overvallen of witwassen (Let op: enkel rijden in een camper, of het overladen van drugsgerelateerde spullen, hoort hier niet bij. Je moet diegene aantoonbaar hebben zien plukken, koken, verwerken, verkopen, etc.)
 	* Het dragen van volledig gezichtsbedekkende kleding (motorhelm wanneer iemand op een motor rijdt telt hierbij niet).
@@ -456,12 +457,12 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Regel 1 geldt alleen voor drugs op een pluk locatie.
 3. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten. 
-5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als je deze persoon ziet verkopen aan een NPC of de animatie ziet doen.
+5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
 6. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
 7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
 8. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
 9. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-10. Het is niet toegestaan zonder goede reden te schieten bij het rippen, dit geldt ook voor bandjes schieten. Dit mag alleen, wanneer er een wapen is gezien.
+10. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten, indien iemand jou achtervolgt mag je na 3minuten schieten.
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
