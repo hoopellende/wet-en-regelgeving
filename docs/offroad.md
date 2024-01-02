@@ -24,7 +24,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Brabus G900
  * Dodge Demon Durango
  * Jeep Grand Cherokee SRT-8
- * Journey 1969 Camper
  * Lamborghini Urus
  * Maserati Levante
  * Mercedes GLE 53 AMG
@@ -83,11 +82,12 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * RMOD DODGE RAM T-REX
  * Ford F-150 SVT Lightning 2003
  * Ford Ranger Raptor 2019
- * Jeep Trackhawk (alleen met off-road banden)
+ * Jeep Trackhawk (alleen met off-road banden) + aanhanger
  * Ford Bronco 6x6
  * Brabus G800 4X4
  * Toyota 4Runner TRD
  * Brabus D35 adventure
  * Honda Africa Twin
  * Mercedes G55
+ * Journey 1969 Camper
 
