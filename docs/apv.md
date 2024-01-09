@@ -294,6 +294,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
 2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
+3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan 150 km/h rijdt.
+4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
