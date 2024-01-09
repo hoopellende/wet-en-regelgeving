@@ -46,6 +46,16 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het verwerken of verkopen in een voertuig.
     * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto aantoonbaar gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt.
 
+### Artikel 1 - Fail-RP (geen intentie tot roleplay).
+Enkele voorbeelden van geen intentie tot roleplay zijn:
+ * Mass VDM
+ * Mass RDM
+ * RP ontwijkend gedrag
+ * Kloten
+   
+Straf ⇨ Categorie 7: permanente ban
+
+
 ### Artikel 2 - Cheats
 
 1. Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel.
@@ -55,8 +65,9 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Crosshairs
     * Macro keys
     * Autoclickers
+    * Het gebruik van bestandsschoonmaakprogramma's, zoals CCleaner, is niet toegestaan
 3. Op verdenking van het gebruik van cheats in het breedste begrip kan het managementteam het besluit nemen een straf namens de 7e categorie op te leggen zonder dat hier direct bewijs voor is.
-4. Springbank Roleplay zal conform de privacyregeling nooit een (integrale) PC-check uitvoeren en besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen.
+4. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
 
 > Straf ⇨ Categorie 7: permanente ban
 
