@@ -290,22 +290,6 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM).
 3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 130 km/u.
 
-### Artikel 45 - Driveby
-
-1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
-2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
-3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan 150 km/h rijdt.
-4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
-
-> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
-
-### Artikel 46 - Bedrijven
-
-1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
-2. Het is niet toegestaan om tijdens een eigen transport de wapens / geld te rippen van het waardetransport.
-
-> Straf ⇨ Categorie 5: een ban van maximaal 1 week
-
 ## Overtredingen - Criminele activiteiten
 
 ### Artikel 26 - Overvallen & Oplichten
@@ -521,7 +505,23 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 44 - Refunds
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk.
-2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd. 
+2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
+
+### Artikel 45 - Driveby
+
+1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
+2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
+3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan 150 km/h rijdt.
+4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
+
+> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+
+### Artikel 46 - Bedrijven
+
+1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
+2. Het is niet toegestaan om tijdens een eigen transport de wapens / geld te rippen van het waardetransport.
+
+> Straf ⇨ Categorie 5: een ban van maximaal 1 week
 
 ### Artikel 47 - Greenzone
 
