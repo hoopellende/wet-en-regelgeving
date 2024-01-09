@@ -253,6 +253,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Een nieuw account aanmaken om een ban te omzijlen.
 	* Een nieuw account aanmaken om het startersbedrag over te schrijven naar je lopende account.
 	* Een nieuw account aanmaken om opnieuw te beginnen. Hiervoor dient een ticket aangemaakt te worden.
+3. Ook accountsharing is niet toegestaan.
 	
 > Straf ⇨ Categorie 6: een ban van maximaal 1 maand
 
