@@ -31,7 +31,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Gebruik maken van je portofoon of telefoon terwijl je aan het zwemmen bent.
     * Stelen van voertuigen zonder passende roleplay.
     * Misbruik maken van de emote-functionaliteit.
-	* Meth koken in een rijdend voertuig of terwijl je onder een dak/tunnel staat.
+	* Meth koken in een rijdend voertuig of terwijl je onder een dak/tunnel staat. Dit mag ook niet op het treinspoor.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items, zoals wapens, af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
@@ -176,7 +176,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 	* Met een sportwagen over een onverharde weg rijden.
 	* Met je voertuig gebouwen inrijden, die hier niet voor bedoeld zijn.
-  	* Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgtt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
+  	* Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 3. Het is alleen toegestaan om af te wijken van de geasfalteerde wegen indien het voertuig dat je gebruikt voldoet aan de classificatie die is gesteld aan het betreffende type terrein. Voertuigen die zich buiten de geasfalteerde wegen mogen bevinden en hun classificaties zijn te raadplegen door hier te klikken.
 
 > Straf ⇨ Categorie 1: een waarschuwing
