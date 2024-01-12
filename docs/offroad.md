@@ -51,6 +51,10 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Aston Martin DBX
  * Lamborghini Urus Performante
  * Ferrari Purosangue
+ * Karin Sultan Classic Rally
+ * Maibatsu Mule 4x4
+ * Skoda Enyaq
+ * Subaru WRX STI 2012 (alleen met off-road banden)
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -90,4 +94,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Honda Africa Twin
  * Mercedes G55
  * Journey 1969 Camper
+ * Karin Sultan Classic Rally1 (alleen met off-road banden)
+ * Land Rover Defender Works V8 70th Edition 2018
+ * Toyota Land Cruiser 70 Series GR 4WD 2023
+ * Trophytruck
 
