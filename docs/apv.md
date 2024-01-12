@@ -329,7 +329,7 @@ Straf ⇨ Categorie 7: permanente ban
 
 ### Artikel 27 - Criminaliteit & Ambtenaren
 
-1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een stafflid.
+1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een stafflid. Voorafgaand aan de start bij de overheidsbaan is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben.
 2. Organisaties die van toepassing zijn op lid 1 zijn:
 	* Politiekorps
 	* Koninklijke Marechaussee
