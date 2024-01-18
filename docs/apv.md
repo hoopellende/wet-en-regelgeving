@@ -523,7 +523,7 @@ Straf ⇨ Categorie 7: permanente ban
 
 1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
 2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
-3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan 150 km/h rijdt.
+3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan rond de 150 km/h rijdt. (het is aan de staff om hierop een besluit te nemen.)
 4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
