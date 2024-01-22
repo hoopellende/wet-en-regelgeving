@@ -322,7 +322,8 @@ Straf ⇨ Categorie 7: permanente ban
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm.
 	* Onder dwang iemand zijn huis betreden en leegroven.
-4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. 
+4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. Het mag dus enkel als volg:
+Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen vanHoop. OF Hoop verkoopt een wapen aan Lucifer. Lucifer geeft het geld aan Hoop en Hoop geeft het wapen aan Lucifer. Hoop heeft mensen in de bosjes staan en die komen na de deal en rippen het wapen weer van Lucifer.
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
