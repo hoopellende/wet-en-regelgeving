@@ -56,6 +56,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Skoda Enyaq
  * Karin Sultan Classic Rally1 (alleen met off-road banden)
  * Subaru WRX STI 2012 (alleen met off-road banden)
+ * BMW XM COBRA
 
 ### Off-road wegen
  * 3XB Lucky Buggy
