@@ -188,7 +188,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt. Dit betekent ook zo snel mogelijk je spullen droppen.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze persoon benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
-	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
+	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken. Een boksbeugel valt hier niet onder!
 	* Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt, terwijl je jezelf in een voertuig met gesloten ramen en deuren bevind.
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
