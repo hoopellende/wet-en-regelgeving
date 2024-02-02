@@ -461,7 +461,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen vanHoop. OF Hoop ver
 7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
 8. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
 9. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-10. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten, indien iemand jou achtervolgt mag je na 3minuten schieten.
+10. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
@@ -524,7 +524,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen vanHoop. OF Hoop ver
 
 1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
 2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
-3. Het is voor zowel criminelen als politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan rond de 150 km/h rijdt. (het is aan de staff om hierop een besluit te nemen.)
+3. Het is voor zowel politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan rond de 150 km/h rijdt. (het is aan de staff om hierop een besluit te nemen, het moet realistisch zijn.)
 4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
