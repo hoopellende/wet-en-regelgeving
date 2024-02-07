@@ -57,6 +57,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Karin Sultan Classic Rally1 (alleen met off-road banden)
  * Subaru WRX STI 2012 (alleen met off-road banden)
  * BMW XM COBRA
+ * BMW iX xDrive50 2022
+ * Subaru Impreza WRX STI (FF4 Edition) 2009 (alleen met off-road banden)
 
 ### Off-road wegen
  * 3XB Lucky Buggy
