@@ -182,6 +182,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
+        * Het is geen nvol indien iemand een wapen op jouw richt terwijl je al rijdt, dan mag je doorrijden. 
 3. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
