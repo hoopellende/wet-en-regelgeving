@@ -98,7 +98,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Informatie verkregen uit de Discord servers, bijvoorbeeld over illegale locaties of criminele organisaties.
     * Informatie verkregen uit content over Springbank, bijvoorbeeld livestreams of Youtube video's.
     * Informatie verkregen uit vormen van communicatie buiten het spel om, bijvoorbeeld door in een Discord-call te zitten met mensen die ook in Springbank zitten.
-3. Het is niet toegestaan om in een Discord-call te zitten, wanneer je in Springbank bent. 
+3. Het is niet toegestaan om in een Discord-call te zitten, wanneer je in Springbank bent (ook niet gemute!)
 4. Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van management.
 5. Om het gebruik hiervan te controleren kan het managementteam videomateriaal van het scenario opvragen. Dit videomateriaal moet overigens ook audiomateriaal bevatten. Indien er aan dit verzoek niet kan worden voldaan wordt de zelfde straf opgelegd.
 
@@ -193,6 +193,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
+        * Het is niet NVOl wanneer iemand een wapen op jou richt als je al aan het rijden bent, je mag dan wegrijden.
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
@@ -322,8 +323,8 @@ Straf ⇨ Categorie 7: permanente ban
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm.
 	* Onder dwang iemand zijn huis betreden en leegroven.
-4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. Het mag dus enkel als volg:
-Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen vanHoop. OF Hoop verkoopt een wapen aan Lucifer. Lucifer geeft het geld aan Hoop en Hoop geeft het wapen aan Lucifer. Hoop heeft mensen in de bosjes staan en die komen na de deal en rippen het wapen weer van Lucifer.
+4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. Het mag dus enkel als volgt:
+Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop verkoopt een wapen aan Lucifer. Lucifer geeft het geld aan Hoop en Hoop geeft het wapen aan Lucifer. Hoop heeft mensen in de bosjes staan en die komen na de deal en rippen het wapen weer van Lucifer. Er moet dus een wapen bij betrokken zijn en je moet iemand handsuppen. 
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
