@@ -60,6 +60,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * BMW iX xDrive50 2022
  * Subaru Impreza WRX STI (FF4 Edition) 2009 (alleen met off-road banden)
  * Yamaha R1M Raptor
+ * Porsche Cayenne Turbo Coupé
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -103,6 +104,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Toyota Land Cruiser 70 Series GR 4WD 2023
  * Trophytruck
  * Yamaha R1M Raptor (alleen met off-road banden)
- * Porsche Cayenne Turbo Coupé
+ * Porsche Cayenne Turbo Coupé (alleen met off-road banden)
  * Vanztra Trailer
 
