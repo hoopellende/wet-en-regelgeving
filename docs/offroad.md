@@ -103,4 +103,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Toyota Land Cruiser 70 Series GR 4WD 2023
  * Trophytruck
  * Yamaha R1M Raptor (alleen met off-road banden)
+ * Porsche Cayenne Turbo Coupé
+ * Vanztra Trailer
 
