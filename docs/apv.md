@@ -12,7 +12,7 @@
 * Categorie 7: permanente ban
 * Categorie 8: account wipe
 
-Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
+Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een perm ban.
 
 ## Openbare orde
 
@@ -36,7 +36,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items, zoals wapens, af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
-    * Het controleren van kofferbakken zonder enige aanleiding, met uitzondering van op illegale locaties. Je mag niet zomaar spullen uit iemand zijn auto halen, zonder enige roleplay.
+    * Het controleren van kofferbakken zonder enige aanleiding, met uitzondering van op illegale locaties.
+    * Je mag niet zomaar spullen uit iemand zijn auto halen, zonder enige roleplay. Ook niet op illegale locaties. LET OP: Indien jij je auto open laat staan op een illegale locatie en iemand hier spullen uithaald, krijg je geen refund. (Zie ook artikel 38, rippen).
     * Het gebruiken van /me commands, zoals: /me duwt uit auto, /me doet auto open, /me pakt sleutels af, /me boeit vast, /me slaat knock out. Dit moet allemaal uitgesproken worden.
     * Het geven van een ‘’vergeet spuit’’ bestaat niet. Je kan wel een spuit toedienen of een drankje geven, dat iemand iets voor de komende 15 minuten vergeet. Daarna mag die persoon alles weer weten.
     * Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
@@ -54,7 +55,6 @@ Enkele voorbeelden van geen intentie tot roleplay zijn:
  * Kloten
    
 Straf ⇨ Categorie 7: permanente ban
-
 
 ### Artikel 2 - Cheats
 
@@ -102,7 +102,7 @@ Straf ⇨ Categorie 7: permanente ban
 4. Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van management.
 5. Om het gebruik hiervan te controleren kan het managementteam videomateriaal van het scenario opvragen. Dit videomateriaal moet overigens ook audiomateriaal bevatten. Indien er aan dit verzoek niet kan worden voldaan wordt de zelfde straf opgelegd.
 
-> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
 ### Artikel 6 - Werk- en officiele kleding
 
@@ -149,7 +149,7 @@ Straf ⇨ Categorie 7: permanente ban
 2. Indien je een wapen hebt gebruik mag je deze niet stashen in de eerste 10 minuten.
 3. Zolang je je nog bevindt in het scenario (neem bijvoorbeeld een achtervolging na het gebruik van je wapen) tellen deze 10 minuten niet. De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
 4. Het is niet toegestaan om naast je huis te koken en de producten hier binnen 10 minuten in te stashen.
-> Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
+> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
 ### Artikel 11 - VDM (Vehicle Deathmatch)
 
@@ -185,10 +185,11 @@ Straf ⇨ Categorie 7: permanente ban
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en repecteert deze zoals in het echt.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt. Dit betekent ook zo snel mogelijk je spullen droppen.
+	* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze persoon benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken. Een boksbeugel valt hier niet onder!
+        * Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als je stil staat.
 	* Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt, terwijl je jezelf in een voertuig met gesloten ramen en deuren bevind.
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
@@ -236,6 +237,8 @@ Straf ⇨ Categorie 7: permanente ban
 7. Het is niet toegestaan meerdere tickets aan te maken over hetzelfde scenario, of om een second opinion aan te vragen over unban tickets of refund tickets. Hier staat een ban van 1 dag op.
 8. In geen enkel geval is het toegestaan om eigenaren en/of staff een dm te sturen over een staffzaak. Gebeurt dit wel, dan staat daar een straf op van een ban voor 2 dagen.
 9. Het liegen tegen staff, of het bedreigen en beledigen van staff, is niet toegestaan.
+
+> Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
 ### Artikel 19 - Out Of Character
 
@@ -294,7 +297,6 @@ Straf ⇨ Categorie 7: permanente ban
 	* Naam van jouw discord account
 	* Naam van jouw in-game karakter
 4. In het geval van lid 4 geldt dat er een (tijdelijke) permanente ban volgens categorie 7 wordt gegeven totdat de betreffende tekst is aangepast.
-
 
 ### Artikel 25 - Pitten
 
@@ -369,6 +371,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 ### Artikel 30 - Overval Regels
 
 1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
+2. Je krijgt per hostage 2 eisen. Er zit een max van 4 hostages bij een overval. 
 
 ### Artikel 31 - Wraak en liquidaties
 
@@ -456,13 +459,14 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
 2. Regel 1 geldt alleen voor drugs op een pluk locatie.
 3. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
-4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten. 
-5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-6. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
-7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
-8. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-9. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-10. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
+4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
+5. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
+6. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
+7. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
+8. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
+9. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
+10. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
+11. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
