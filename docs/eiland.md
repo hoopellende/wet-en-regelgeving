@@ -16,7 +16,7 @@ De volgende regelgeving is alleen van toepassing op het eiland van Springbank Ro
 
 ### Artikel 2 - Jurisdictie
 
-1. De politie heeft in het beginsel geen bevoegheden op het eiland en mag hier ook niet komen.
+1. De politie heeft in het beginsel geen bevoegheden op het eiland en mag hier ook niet komen. De KMAR mag hier wel komen.
 2. Een uitzondering op lid 1 is voor speciale operaties van de DSI (Dienst Speciale Interventies). Deze dienen goedgekeurd te worden door de korpsleiding en het management.
 
 ### Artikel 3 - Campen
